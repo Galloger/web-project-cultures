@@ -1,4 +1,4 @@
-# web_project_cultures
+# web-project-cultures
 
 ## 📁 Estructura del proyecto
 
